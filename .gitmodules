@@ -1,0 +1,6 @@
+[submodule "CarVserver-side"]
+	path = CarVserver-side
+	url = https://github.com/MiranIbrahim/CarVerse-Server.git
+[submodule "CarVclient-side"]
+	path = CarVclient-side
+	url = https://github.com/MiranIbrahim/CarVerse-Client.git
